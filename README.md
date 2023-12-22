@@ -1,7 +1,8 @@
-2023년 4학년 1학기 프로젝트입니다.
+# 계산기 안드로이드 앱 
 
-안드로이드 앱 개발이며 Java 기반으로 만들어졌습니다.
+## UI
+![Calculator](https://github.com/seungwoo505/ECGM-edit-Version/blob/main/image.png)
 
-# 개요
+## 개요
 
-이 앱은 사칙연산정도 수행하는 계산기입니다.
+간단한 사칙연산을 수행하는 계산기입니다.
