@@ -1,7 +1,7 @@
 # 계산기 안드로이드 앱 
 
 ## UI
-![Calculator](https://github.com/seungwoo505/ECGM-edit-Version/blob/main/image.png)
+![Calculator](https://github.com/seungwoo505/Calculator/blob/main/image.png)
 
 ## 개요
 
