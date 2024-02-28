@@ -6,7 +6,7 @@
 제작 기간 : 2023.06 ~ 2023.06
 
 ## UI
-![Calculator](https://github.com/seungwoo505/Calculator/blob/main/image.png)
+<img src="https://github.com/seungwoo505/Calculator/blob/main/image.png" height="500"/>
 
 ## 설명
 단순 연산이면 쉽습니다만 사칙 연산 중 우선 순위를 주고 먼저 처리하는 것은 까다롭습니다.
